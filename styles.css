@@ -1,0 +1,28 @@
+body, main{
+  display: flex;
+}
+
+body{
+  flex-direction: column;
+}
+
+main{
+  flex-direction: row;
+  flex: auto;
+}
+
+article{
+  flex: 2;
+  overflow-y: auto;
+  font-family: purisa;
+}
+
+aside{
+  flex: 1;
+  overflow-y: auto;
+}
+
+h1, h2, h3, a{
+  color: red;
+  font-family: cursive;
+}

@@ -1,0 +1,26 @@
+
+    Your public IP: 3.94.192.82
+    Your port: 22
+    Your login: root
+    Your password: 5f95E-199323A1f24
+
+======================================================
+	COMMANDS
+UNAME --> LINUX
+man --> manual
+less --> permit to see the text files
+touch --> create an empty file
+rmdire --> eliminar carpeta
+
+install emacs
+
+Install Apache!
+apt-get install apache2
+
+html:
+<p>This is a paragraph.</p>
+<p>This paragraph has <strong>a stronger part</strong> and <em>an emphasized part</em>.</p>
+
+<p>This is a paragraph with a
+<a href="https://www.holbertonschool.com">clickable link</a>.</p>
+
